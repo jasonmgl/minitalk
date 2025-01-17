@@ -44,9 +44,9 @@ In a separate terminal, use the client to send a message to the server:
 Replace [server_pid] with the PID displayed by the server and "Your message here" with the message you wish to send.
 
 ## DEPENDENCIES
-Compiler: Requires a C compiler like gcc.
-Make: Utilizes make for building the program.
-Operating System: Designed for Unix-like systems that support signal-based IPC.
+- Compiler: Requires a C compiler like gcc.
+- Make: Utilizes make for building the program.
+- Operating System: Designed for Unix-like systems that support signal-based IPC.
 
 ## DESCRIPTIONS
 Server:
